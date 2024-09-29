@@ -10,7 +10,7 @@ npm install
 
 ### Descripción del desafió
 1. crear instancias de `Animal` en función a los valores del formulario a la derecha y mostrar una preview de imagen
-2. mostrar en la tabla de la derecha los animales agregados
+2. mostrar en la tabla de la izquierda los animales agregados
 3. al hacer click en el icono de sonido reproduce el sonido característico del animal
 4. al hacer click en la imagen abre un modal con la información del animal 
 
