@@ -19,8 +19,6 @@ export class AnimalFactory {
         
         const{name,imagen,sonido}= animalFiltradoFromList;
 
-        // console.log({name,imagen,sonido,edad,comentarios})
-
 
         if(name==="Leon"){
             const animal = new Leon(name,edad,imagen,sonido)
