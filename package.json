@@ -1,0 +1,11 @@
+{
+  "name": "desafio-programcion-avanzada-en-javascript",
+  "version": "1.0.0",
+  "description": "1. clonar repositorio\r 2. instalar dependencias necesarias\r ```\r npm install\r ```\r 3. abrir con extension \"LiveServer\" de VScode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
